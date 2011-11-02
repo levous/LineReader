@@ -7,5 +7,6 @@ read block wise. The file contents can be read forwards or backwards.
 
 The included FileReader class originally has been created by Dave DeLong. Here you 
 can find his answer on a question at stackoverflow.com.
+.
 
 * [How to read data from NSFileHandle line by line?](http://stackoverflow.com/questions/3707427#3711079)
